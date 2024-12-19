@@ -1,3 +1,8 @@
+# Estate website_frontend
+ Used Tech :- vite, Tailwind, Web3Forms, Toastify Notification & Framer Motion.
+ https://vaastu-estate.netlify.app/
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
