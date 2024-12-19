@@ -1,0 +1,15 @@
+1) setup project via npm install vite@latest
+2) install tailwind css for vite
+   ===> npm install -D tailwindcss postcss autoprefixer
+   ===> npx tailwindcss init -p
+
+3) For User Feedback we use 
+   web3forms
+
+4) For Notification we use
+   react Toastify
+   ===> npm i react-toastify   
+
+5) For website animation
+   Framer Motion
+   ===> npm install framer-motion   
